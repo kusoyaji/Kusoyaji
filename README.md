@@ -125,12 +125,12 @@ An enterprise HR application that provides:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Most Used Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kusoyaji&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusoyaji&layout=compact&theme=radical" alt="Most Used Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kusoyaji&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🌎 Languages
@@ -144,5 +144,5 @@ An enterprise HR application that provides:
 - Phone: +212 610059159
 
 <!--
-**YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kusoyaji/Kusoyaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

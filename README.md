@@ -1,18 +1,24 @@
-# Mehdi Boudar
+<div align="center">
 
-**AI & Platform Engineer — production LLM systems in Java 21 and Spring Boot.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=170&section=header&text=Mehdi%20Boudar&fontColor=FFFFFF&fontSize=44&fontAlignY=34&desc=AI%20%26%20Platform%20Engineer&descAlignY=54&descSize=18" width="100%" alt="Mehdi Boudar — AI and Platform Engineer" />
 
-Most LLM engineering happens in Python. Mine runs on Java and Spring Boot, inside enterprises
-that already run Java. I build the conversational AI, the Meta API compliance layer and the CRM
-integrations for a multi-tenant messaging platform serving 10+ enterprise brands across 8
-channels — automotive, retail, real estate and education.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3400&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Production+LLM+systems+in+Java+21+%26+Spring+Boot;Multi-model+orchestration%2C+hybrid+RAG%2C+MCP+servers;10%2B+enterprise+brands+across+8+channels" alt="Production LLM systems in Java 21 and Spring Boot" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mehdiboudar.com-0b1220?style=flat-square)](https://mehdiboudar.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mehdi--boudar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-boudar/)
-[![Email](https://img.shields.io/badge/Email-Meehdi99%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:Meehdi99@gmail.com)
-[![Oracle Certified Professional](https://img.shields.io/badge/Oracle_Certified_Professional-Java_SE_17-F80000?style=flat-square&logo=oracle&logoColor=white)](https://www.linkedin.com/in/mehdi-boudar/)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mehdiboudar.com-0D1117?style=for-the-badge)](https://mehdiboudar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mehdi--boudar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-boudar/)
+[![Email](https://img.shields.io/badge/Email-Meehdi99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Meehdi99@gmail.com)
+[![Oracle Certified](https://img.shields.io/badge/Oracle_Certified_Professional-Java_SE_17-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.linkedin.com/in/mehdi-boudar/)
+
+</div>
 
 ---
+
+Most LLM engineering happens in Python. Mine runs on **Java 21 and Spring Boot**, inside
+enterprises that already run Java. I build the conversational AI, the Meta API compliance layer
+and the CRM integrations for a multi-tenant messaging platform serving **10+ enterprise brands
+across 8 channels** — automotive, retail, real estate and education.
 
 ## What I'm building
 
@@ -26,11 +32,6 @@ named competitors.
 
 **[mehdiboudar.com](https://mehdiboudar.com)** — Portfolio and engineering case studies: Meta
 coexistence, five-tier model failover, hybrid retrieval, MCP servers.
-
-Most of my production work lives in private repositories. The case studies above are the
-detailed version.
-
----
 
 ## Things I've solved that were genuinely hard
 
@@ -50,18 +51,22 @@ mixed inside a single sentence.
 **MCP servers over CRM.** Two in production: a centralizer federating several Zoho tenants behind
 one interface, and an 18-tool conversation server, both under per-user token auth.
 
----
-
 ## Selected public repos
 
-| Repo | What it is |
-| --- | --- |
-| [Portfolio](https://github.com/kusoyaji/Portfolio) | This site. Next.js 16, Tailwind v4, scroll-driven motion with Motion, Lenis and GSAP. |
-| [odc-fablab](https://github.com/kusoyaji/odc-fablab) | Orange Morocco FabLab platform. 9 Spring Boot microservices over Kafka, real-time reservations with optimistic locking, 10+ IoT devices. |
-| [skypay-technical-tests](https://github.com/kusoyaji/skypay-technical-tests) | Banking and hotel-reservation systems in Java — a clean read of how I structure domain logic. |
-| [Freelancer-Portal-Saas](https://github.com/kusoyaji/Freelancer-Portal-Saas) | Full-stack Spring Boot and Angular platform: project management, messaging, payments. |
+**[Chatwoot](https://github.com/kusoyaji/Chatwoot)** · Ruby on Rails
+The messaging platform whose campaign and broadcast subsystem I re-engineered for Meta API
+compliance: rate limiting, retry, scheduling and delivery tracking. Imports 500,000 contacts in
+under 10 minutes and broadcasts 100,000 template messages in under 30.
 
----
+**[odc-fablab](https://github.com/kusoyaji/odc-fablab)** · Java, Spring Boot
+Orange Morocco FabLab platform. 9 Spring Boot microservices over Apache Kafka, real-time
+reservations with optimistic locking, and 10+ IoT devices integrated over REST.
+
+**[Freelancer-Portal-Saas](https://github.com/kusoyaji/Freelancer-Portal-Saas)** · Spring Boot, Angular
+Full-stack platform: project management, client tracking, real-time messaging and payments.
+
+<sub>Most of my production work lives in private repositories. The case studies on
+<a href="https://mehdiboudar.com">mehdiboudar.com</a> are the detailed version.</sub>
 
 ## Stack
 
@@ -80,15 +85,18 @@ OAuth2 / HMAC · Apache Kafka
 <sub>Also worked with: Python, C#, PHP, MongoDB, SQL Server, Kubernetes, GraphQL. Listed
 separately because I would not claim them as strengths.</sub>
 
----
-
 ## Background
 
-**State Engineering Degree in Computer Science** — EMSI Rabat, 2022–2025
-**Associate Degree in Software Development** — ISTA NTIC Safi, 2019–2021
+- **State Engineering Degree in Computer Science** — EMSI Rabat, 2022–2025
+- **Associate Degree in Software Development** — ISTA NTIC Safi, 2019–2021
+- **Oracle Certified Professional: Java SE 17** (1Z0-829)
+- **Oracle Database SQL Certified Associate** (1Z0-082)
 
-**Oracle Certified Professional: Java SE 17** (1Z0-829) · **Oracle Database SQL Certified
-Associate** (1Z0-082)
-
-Rabat, Morocco (GMT+1). English (C2) · French (C1) · Arabic (native).
+Rabat, Morocco (GMT+1) · English (C2) · French (C1) · Arabic (native)
 Open to remote roles with EU/US overlap, and to relocation.
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kusoyaji&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution streak" />
+
+</div>

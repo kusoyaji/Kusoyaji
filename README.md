@@ -1,148 +1,94 @@
-# 👋 Hi there, I'm Mehdi Boudar
+# Mehdi Boudar
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Java+Specialist;Spring+Boot+%26+Angular+Developer" alt="Typing SVG" />
-</div>
+**AI & Platform Engineer — production LLM systems in Java 21 and Spring Boot.**
 
-## 🚀 About Me
-Full Stack Software Engineer specializing in Java and modern web technologies. Passionate about building scalable and maintainable software solutions using Spring Boot, Angular, and cloud technologies. Experienced in developing enterprise applications with a focus on performance, security, and user experience.
+Most LLM engineering happens in Python. Mine runs on Java and Spring Boot, inside enterprises
+that already run Java. I build the conversational AI, the Meta API compliance layer and the CRM
+integrations for a multi-tenant messaging platform serving 10+ enterprise brands across 8
+channels — automotive, retail, real estate and education.
 
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-Meehdi99%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:Meehdi99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mehdi--boudar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mehdi-boudar/)
-[![Phone](https://img.shields.io/badge/Phone-%2B212%20610059159-green?style=flat-square&logo=whatsapp)](tel:+212610059159)
-  
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-mehdiboudar.com-0b1220?style=flat-square)](https://mehdiboudar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mehdi--boudar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-boudar/)
+[![Email](https://img.shields.io/badge/Email-Meehdi99%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:Meehdi99@gmail.com)
+[![Oracle Certified Professional](https://img.shields.io/badge/Oracle_Certified_Professional-Java_SE_17-F80000?style=flat-square&logo=oracle&logoColor=white)](https://www.linkedin.com/in/mehdi-boudar/)
 
-## 💻 Tech Stack
+---
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+## What I'm building
 
-### Backend
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%23BC6F03.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+**[safq.ai](https://safq.ai)** — Conversational AI for WhatsApp, Instagram and Messenger, with
+campaigns, CRM sync and ad attribution in one place. Sole engineer: architecture, data model,
+billing, deployment. Serving 6 enterprise clients.
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+**[useinvestment.com](https://useinvestment.com)** — Growth diagnostics for Shopify brands. Reads
+a store's public catalogue and returns findings with the evidence attached, benchmarked against
+named competitors.
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**[mehdiboudar.com](https://mehdiboudar.com)** — Portfolio and engineering case studies: Meta
+coexistence, five-tier model failover, hybrid retrieval, MCP servers.
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23FFFFFF.svg?style=for-the-badge&logo=github-actions&logoColor=black)
+Most of my production work lives in private repositories. The case studies above are the
+detailed version.
 
-### Other Technologies
-![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-%230DB7ED.svg?style=for-the-badge&logo=microservices&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile_Scrum-%230175C2.svg?style=for-the-badge&logo=agile&logoColor=white)
+---
 
-## 🏆 Certifications
-- ![Oracle](https://img.shields.io/badge/Oracle-Certified_Professional_Java_SE_17_Developer-red?style=flat-square&logo=oracle) Oracle Certified Professional: Java SE 17 Developer (1Z0-829)
-- ![Oracle](https://img.shields.io/badge/Oracle-Database_Administration-red?style=flat-square&logo=oracle) Oracle Database Administration (1Z0-082)
-- ![IBM](https://img.shields.io/badge/IBM-Building_AI_Powered_Chatbots-blue?style=flat-square&logo=ibm) Building AI Powered Chatbots Without Programming
-- ![AWS](https://img.shields.io/badge/AWS-DevOps_on_AWS-orange?style=flat-square&logo=amazon-aws) DevOps on AWS: Code, Build, and Test
-- ![UC](https://img.shields.io/badge/UC-Programming_for_IoT-green?style=flat-square&logo=coursera) Programming for the Internet of Things Project
-- ![Michigan](https://img.shields.io/badge/Michigan-Python_Data_Processing-blue?style=flat-square&logo=coursera) Python Data Processing and Visualization
+## Things I've solved that were genuinely hard
 
-## 🎓 Education
-- **Master's in Applied Computer Methods for Business Management** (2022 – 2025)  
-  EMSI Rabat, Morocco
-  
-- **DTS in Software Development** (2019 – 2021)  
-  ISTA NTIC, Rabat, Morocco
-  
-- **Baccalaureate in Experimental Sciences (Physics)** (2017 – 2018)  
-  Imam El Ghazali, Témara, Morocco
+**Meta WhatsApp coexistence.** Connecting a client's number to the Cloud API used to mean
+deleting their WhatsApp Business app outright — a non-starter for a sales team that lives in it.
+The same number now runs through both, with history synced in both directions.
 
-## 🔭 Projects
+**Five-tier model failover.** Language models degrade in ways ordinary services do not: rate
+limits, regional outages, silent truncation, quietly worse output. Gemini → Claude → Gemini Flash
+→ GPT-4o-mini → a deterministic path that always answers. Each tier is a complete fallback, not a
+retry, and the agentic tools stay available the whole way down.
 
-### Freelance Platform
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+**Retrieval for Moroccan Darija.** Semantic search plus BM25 for exact part numbers, plus HyDE
+for questions phrased in words that never appear in the source. Customers write Darija and French
+mixed inside a single sentence.
 
-A comprehensive freelance platform built with Spring Boot and Angular that offers:
-- End-to-end project management system
-- Client tracking and management
-- Real-time messaging capabilities
-- Secure payment processing system
-- Advanced talent-matching algorithm for optimal project assignment
+**MCP servers over CRM.** Two in production: a centralizer federating several Zoho tenants behind
+one interface, and an 18-tool conversation server, both under per-user token auth.
 
-### Conference Management System
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+---
 
-A responsive system for managing conferences, featuring:
-- Session scheduling and management
-- Comprehensive tutor and participant management
-- Real-time notifications for schedule changes
-- Automated scheduling conflict resolution
-- Responsive design for mobile and desktop users
+## Selected public repos
 
-### HR Application
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+| Repo | What it is |
+| --- | --- |
+| [Portfolio](https://github.com/kusoyaji/Portfolio) | This site. Next.js 16, Tailwind v4, scroll-driven motion with Motion, Lenis and GSAP. |
+| [odc-fablab](https://github.com/kusoyaji/odc-fablab) | Orange Morocco FabLab platform. 9 Spring Boot microservices over Kafka, real-time reservations with optimistic locking, 10+ IoT devices. |
+| [skypay-technical-tests](https://github.com/kusoyaji/skypay-technical-tests) | Banking and hotel-reservation systems in Java — a clean read of how I structure domain logic. |
+| [Freelancer-Portal-Saas](https://github.com/kusoyaji/Freelancer-Portal-Saas) | Full-stack Spring Boot and Angular platform: project management, messaging, payments. |
 
-An enterprise HR application that provides:
-- Employee tracking and management
-- Time management and attendance tracking
-- Performance analytics dashboard
-- Role-based permissions system
-- Interactive management dashboard for oversight
+---
 
-## 📈 GitHub Stats
+## Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kusoyaji&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusoyaji&layout=compact&theme=radical" alt="Most Used Languages" height="170" />
-</div>
+**Core** — Java 21 · Spring Boot 3 · PostgreSQL / pgvector · Redis · Docker
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kusoyaji&theme=radical" alt="GitHub Streak" />
-</div>
+**AI** — Multi-model orchestration (Gemini, Claude, OpenAI) · Agents & function calling · Hybrid
+RAG (BM25, HyDE) · Model Context Protocol · LLM-as-judge evaluation
 
-## 🌎 Languages
-- 🇬🇧 English: Fluent
-- 🇫🇷 French: Fluent
-- 🇲🇦 Arabic: Native
+**Integration** — Meta WhatsApp Cloud API · Zoho CRM · Salesforce · Stripe · Webhooks ·
+OAuth2 / HMAC · Apache Kafka
 
-## 📫 How to reach me
-- Email: [Meehdi99@gmail.com](mailto:Meehdi99@gmail.com)
-- LinkedIn: [linkedin.com/in/mehdi-boudar](https://www.linkedin.com/in/mehdi-boudar/)
-- Phone: +212 610059159
+**Web** — Next.js · TypeScript · React · Angular
 
-<!--
-**Kusoyaji/Kusoyaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+**Delivery** — Digital Ocean · Railway · Vercel · Nginx · Jenkins CI/CD
+
+<sub>Also worked with: Python, C#, PHP, MongoDB, SQL Server, Kubernetes, GraphQL. Listed
+separately because I would not claim them as strengths.</sub>
+
+---
+
+## Background
+
+**State Engineering Degree in Computer Science** — EMSI Rabat, 2022–2025
+**Associate Degree in Software Development** — ISTA NTIC Safi, 2019–2021
+
+**Oracle Certified Professional: Java SE 17** (1Z0-829) · **Oracle Database SQL Certified
+Associate** (1Z0-082)
+
+Rabat, Morocco (GMT+1). English (C2) · French (C1) · Arabic (native).
+Open to remote roles with EU/US overlap, and to relocation.
